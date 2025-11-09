@@ -1,0 +1,35 @@
+#EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://i.ibb.co/pjzTyFfQ/Hungama.png" group-title="Kids",Hungama
+http://87.255.35.150:18811/
+
+#EXTINF:-1 tvg-id="" tvg-name="Wow Kids" tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png" group-title="Kids",Wow Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CN HD+ Telugu" tvg-logo="https://i.ibb.co/fYn36K8q/1000148107.png" group-title="Kids",CN HD+ Telugu
+https://servertvhub.site/jio/app/ts_live_1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CN Telugu" tvg-logo="https://i.ibb.co/fGXKHpvz/1000148119.png" group-title="Kids",CN Telugu
+https://servertvhub.site/jio/app/ts_live_166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Telugu" tvg-logo="https://i.ibb.co/MkcMWmnB/1000148400.png" group-title="Kids",Nick Telugu
+https://servertvhub.site/jio/app/ts_live_543.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/gMT4GwSf/1000148402.png" group-title="Kids",Nick Jr
+https://servertvhub.site/jio/app/ts_live_544.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kushi Tv" tvg-logo="https://i.ibb.co/cSKvMhzb/1000148411.png" group-title="Kids",Kushi Tv
+https://servertvhub.site/jio/app/ts_live_558.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Telugu" tvg-logo="https://i.ibb.co/DD2fP1FF/1000148417.png" group-title="Kids",Sonic Telugu
+https://servertvhub.site/jio/app/ts_live_1242.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pogo Telugu" tvg-logo="https://i.ibb.co/4n56LwrX/1000148486.png" group-title="Kids",Pogo Telugu
+https://servertvhub.site/jio/app/ts_live_1883.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="YouTube" tvg-logo="", 0. Masha and The Bear
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762672265/ei/KeoPadWBMM2Y2_gP5daD-Qk/ip/172.208.153.3/id/XPdNTcwemoI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634250/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AdEuB5S6dtderZVqbWFhBROKHXwIQcGGpCmzfPYKJZ-FlCzfaFwTOyXYjwierJTBQ6ETd1OdYw/spc/6b0G_AU1i-FDFdoJ-vvp_-qOAbYvkWwO3xisW41Km85An0iUGMCRJ-LojzNFYNWqE-E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPq501H-1zuZcMzYg7n205RB8mGCNM17AZ8Q4l-bmxQZAiEAyxZ40VuM94XOfz5jF6nJTqplTbmWmhE9TaIldWGFtZ4%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="YouTube" tvg-logo="https://yt3.googleusercontent.com/krEBMFPvwl-Fp0TcZh8TH76-z2kHivKvr9ow1IXUvrqOq0l_EjDNDrrVxO-nb2AZeKSWZbgh=s160-c-k-c0x00ffffff-no-rj", 0. WowKidz (Motu Patlu) YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762672270/ei/LuoPacLYEMWtlu8PlIyV-A8/ip/172.208.153.3/id/UXxT94twED8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634250/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AdEuB5S14sYrg5OamLeQo8ZgbVHRJP3tC4so9u0mw8MflZFMRFYxCHUArrO6HaeeRn-vkMi4qg/spc/6b0G_ANRnMBRbNgBYETkaimOAoQiJZ399EtbniJaJWNu6H4s4zf1LwuVZImKMPHRFV0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALsvxJpr115JLp_7DZuIQK0b-CCWuhtveTCxQpaV7jvIAiEAxSqz8knqZeyNG8kmTVgcerBj_IH6zXnIG_dYowmk1LA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="YouTube" tvg-logo="https://yt3.googleusercontent.com/9ZcNDnYOkeop1HAs5YoOJlSN_NENgKemTnIFUi5mPPwtnvdSCRJRrnYZXAfbPAg-Dmxe0ambqg=s160-c-k-c0x00ffffff-no-rj", 0. Booba YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762672275/ei/M-oPaeSQAvqUlu8Poar-4A0/ip/172.208.153.3/id/51tcO7d9kdA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634250/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AdEuB5Q333jsIt4RyCAJKFJ9YmWRUNEDdkMoh-oTl9Q3sDb0m2o2ntjdE6eCKGjgSkNrAV2GLg/spc/6b0G_MSC3mnSvVO3IC21zC2n5Noxql5c46rsOwIdGa1ZAa_cPtyMRrMiwnzR1QYkeOE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALbVkDGzwcul69frYj8Gt2pUm94c54NbQ0CAYVjqgbznAiEA07MGsSJsqdzkU4xVkA72Z6qL03fE-a_EYKWzZ-TG4WI%3D/file/index.m3u8
