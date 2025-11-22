@@ -6,3 +6,8 @@ https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-67/zemj-b9vl_1080p/chunklist.m3
 #EXTINF:-1 tvg-id="" tvg-name="Channel 7 Sports" tvg-logo="https://i.ibb.co/7dtK9BJn/SevenTV.png" group-title="Sports", Channel 7
 https://foxhindi.pages.dev/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
+http://87.255.35.150:18881/
+
+#EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
