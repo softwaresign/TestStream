@@ -1,0 +1,189 @@
+#EXTM3U Stream India (IN)
+#EXTINF:-1 ,  &flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+#EXTINF:-1 ,  5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 ,  6 TV Telugu
+https://cdn-1.pishow.tv/live/232/master.m3u8
+#EXTINF:-1 ,  10 TV
+https://cdn-1.pishow.tv/live/391/master.m3u8
+#EXTINF:-1 ,  99 TV
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+#EXTINF:-1 ,  B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 ,  B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 ,  B4U Movies India
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 ,  B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 ,  CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 ,  Colors Cineplex Bollywood
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+#EXTINF:-1 ,  Comedy Tadka
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,  Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 ,  CV Vision
+https://eu1.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 ,  CVR English
+https://cdn-2.pishow.tv/live/425/master.m3u8
+#EXTINF:-1 ,  DD Bharati
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 ,  DD Kashir
+https://cdn-6.pishow.tv/live/16/master.m3u8
+#EXTINF:-1 ,  DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 ,  DD Saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+#EXTINF:-1 ,  DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 ,  Disney International
+http://116.90.120.149:8000/play/a0e9/index.m3u8
+#EXTINF:-1 ,  DY 365 TV
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 ,  Gemini Comedy
+http://87.255.35.150:18858/:
+#EXTINF:-1 ,  Gemini Movies
+http://87.255.35.150:18814/:
+#EXTINF:-1 ,  Gemini Music
+http://87.255.35.150:18857/:
+#EXTINF:-1 ,  Gyandarshan
+https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 ,  Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 ,  HMTV
+https://cdn-1.pishow.tv/live/280/master.m3u8
+#EXTINF:-1 ,  Hungama
+http://87.255.35.150:18811/:
+#EXTINF:-1 ,  India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 ,  Mastiii
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+#EXTINF:-1 ,  MNX
+http://87.255.35.150:18936/:
+#EXTINF:-1 ,  Movies Now
+http://87.255.35.150:18935/:
+#EXTINF:-1 ,  Munsif TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
+#EXTINF:-1 ,  Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 ,  Network 10
+https://network10.livebox.co.in/network10hls/live.m3u8
+#EXTINF:-1 ,  Raj Musix Telugu
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+#EXTINF:-1 ,  Raj News Telugu
+http://87.255.35.150:18479/:
+#EXTINF:-1 ,  Sonic
+http://116.90.120.149:8000/play/a0cc/index.m3u8
+#EXTINF:-1 ,  Sony Max 2
+http://87.255.35.150:18841/:
+#EXTINF:-1 ,  Sony Pix
+http://87.255.35.150:18495/:
+#EXTINF:-1 ,  Sony Sports Ten 1
+http://87.255.35.150:18926/:
+#EXTINF:-1 ,  Sony Sports Ten 2
+http://87.255.35.150:18927/:
+#EXTINF:-1 ,  Sony Sports Ten 3
+http://87.255.35.150:18848/:
+#EXTINF:-1 ,  Star Gold
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+#EXTINF:-1 ,  Star Gold (#)
+http://116.90.120.149:8000/play/a0c2/index.m3u8
+#EXTINF:-1 ,  Star Gold 2
+http://116.90.120.149:8000/play/a0ea/index.m3u8
+#EXTINF:-1 ,  Star Gold Romance
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+#EXTINF:-1 ,  Star Gold Select
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+#EXTINF:-1 ,  Star Gold Select HD (#)
+http://87.255.35.150:18429:Star Gold Select HD (#)
+#EXTINF:-1 ,  Star Gold Thrills
+http://116.90.120.149:8000/play/a0c0/index.m3u8
+#EXTINF:-1 ,  Star Maa
+https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
+#EXTINF:-1 ,  Star Maa (#)
+http://87.255.35.150:18846/:
+#EXTINF:-1 ,  Star Maa Gold
+https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8
+#EXTINF:-1 ,  Star Maa Gold (#)
+http://87.255.35.150:18815/:
+#EXTINF:-1 ,  Star Maa Movies
+https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
+#EXTINF:-1 ,  Star Maa Movies (#)
+http://87.255.35.150:18817/:
+#EXTINF:-1 ,  Star Maa Music
+https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
+#EXTINF:-1 ,  Star Maa Music (#)
+http://87.255.35.150:18816/:
+#EXTINF:-1 ,  Star Movies
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#EXTINF:-1 ,  Star Movies (#)
+http://87.255.35.150:18301/:
+#EXTINF:-1 ,  Star Movies Select
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+#EXTINF:-1 ,  Star Movies Select (#)
+http://87.255.35.150:18548/:
+#EXTINF:-1 ,  Star Plus
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#EXTINF:-1 ,  Star Plus (#)
+http://116.90.120.149:8000/play/a0b9/index.m3u8
+#EXTINF:-1 ,  Star Sports 1
+http://116.90.120.149:8000/play/a0ba/index.m3u8
+#EXTINF:-1 ,  Star Sports 1 Hindi
+http://116.90.120.149:8000/play/a0bv/index.m3u8
+#EXTINF:-1 ,  Star Sports 1 Tamil
+https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+#EXTINF:-1 ,  Star Sports 1 Tamil (#)
+http://87.255.35.150:18844/:
+#EXTINF:-1 ,  Star Sports 1 Telugu
+http://87.255.35.150:18881/:
+#EXTINF:-1 ,  Star Sports 2
+http://87.255.35.150:18828/:
+#EXTINF:-1 ,  Star Sports 2 Hindi
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+#EXTINF:-1 ,  Star Sports 3
+http://87.255.35.150:18804/:
+#EXTINF:-1 ,  Star Sports Select 1
+http://116.90.120.149:8000/play/a0cl/index.m3u8
+#EXTINF:-1 ,  Star Sports Select 2
+http://116.90.120.149:8000/play/a0cm/index.m3u8
+#EXTINF:-1 ,  Star Utsav
+https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+#EXTINF:-1 ,  Star Utsav (#)
+http://116.90.120.149:8000/play/a02t/index.m3u8
+#EXTINF:-1 ,  Star Utsav Movies
+https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+#EXTINF:-1 ,  Star Utsav Movies (#)
+http://116.90.120.149:8000/play/a02r/index.m3u8
+#EXTINF:-1 ,  Tehzeeb TV
+https://cdn-4.pishow.tv/live/239/master.m3u8
+#EXTINF:-1 ,  TV 9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 ,  Vissa TV
+https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Vissa_Tv/master_1.m3u8
+#EXTINF:-1 ,  Vyas Higher Education Channel
+https://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 ,  Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 ,  ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 ,  ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 ,  Zee Action
+http://87.255.35.150:18507/:
+#EXTINF:-1 ,  Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 ,  Zee Bihar Jharkhand (#)
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
+#EXTINF:-1 ,  Zee Bollywood
+http://87.255.35.150:18861/:
+#EXTINF:-1 ,  Zee Cafe
+http://116.90.120.149:8000/play/a0e7/index.m3u8
+#EXTINF:-1 ,  Zee Hindustan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 ,  Zee One
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1 ,  Zee One (#)
+https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
