@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 #EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 2
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu
