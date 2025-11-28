@@ -8,6 +8,12 @@ https://cdn-6.pishow.tv/live/14/master.m3u8
 http://87.255.35.150:18222/
 #EXTINF:-1 ,  Zee Cinemalu HD
 http://87.255.35.150:18578/
+
+#EXTINF:-1 ,  Zee Telugu
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetelugu
+
 #EXTINF:-1 ,  Zee One English
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 #EXTINF:-1 ,  Star Maa HD
@@ -121,3 +127,4 @@ http://87.255.35.150:18507/
 http://87.255.35.150:18861/
 #EXTINF:-1 ,  Star Movies HD
 http://87.255.35.150:18301/
+
