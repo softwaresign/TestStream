@@ -5,19 +5,19 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmS
 #EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 2
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU One
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU Three
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 4
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/play.php?c=0-9-zeetelugu
 
 
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU TV
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 5
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetelugu
 
 #EXTVLCOPT:http-referrer="https://colorsportscreen.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://colorsportscreen.com"
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", Z TELUGU TV
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", Z TELUGU 6
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu
