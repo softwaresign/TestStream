@@ -11,6 +11,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 4
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/play.php?c=0-9-zeetelugu
 
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE Cinemalu" tvg-logo="https://image.telanganatoday.com/wp-content/uploads/2021/09/Zee-cinemalu_V_jpg--816x480-4g.webp" group-logo=" " group-title=" ", ZEE Cinemalu 1
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5383488|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5383488
+
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE Cinemalu" tvg-logo="https://image.telanganatoday.com/wp-content/uploads/2021/09/Zee-cinemalu_V_jpg--816x480-4g.webp" group-logo=" " group-title=" ", ZEE Cinemalu 2
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5383488|Referer=https://colorsportscreen.com/sfive/play.php?c=0-9-9z5383488
+
 
 
 
