@@ -1,21 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 1
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU One
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 2
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU TWO
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 3
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU THREE
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo=" " group-title=" ", ZEE TELUGU 4
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU Four
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/play.php?c=0-9-zeetelugu
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE Cinemalu" tvg-logo="https://image.telanganatoday.com/wp-content/uploads/2021/09/Zee-cinemalu_V_jpg--816x480-4g.webp" group-logo=" " group-title=" ", ZEE Cinemalu 1
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu One
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5383488|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5383488
 
-#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE Cinemalu" tvg-logo="https://image.telanganatoday.com/wp-content/uploads/2021/09/Zee-cinemalu_V_jpg--816x480-4g.webp" group-logo=" " group-title=" ", ZEE Cinemalu 2
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu TWO
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5383488|Referer=https://colorsportscreen.com/sfive/play.php?c=0-9-9z5383488
+
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu Three
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 
 
 
