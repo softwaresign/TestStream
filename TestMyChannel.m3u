@@ -3,7 +3,7 @@
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Sony One
-http://mini.allinonereborn.fun/events/stream_proxy.php?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2037141%2FDAI21-criclive%2Fhdntl%3Dexp%3D1765956579~acl%3D%252f%2A~id%3D99673063709513707937411446002787~data%3Dhdntl%2C2037141%2CDAI21-criclive%2Cnone~hmac%3Dc5f31b144cd8c623729c58802b87cb88250f1834b00d1db02de47cb0ef39d845%2Fmaster_500.m3u8%3Faka_me_session_id%3DAAAAAAAAAADjW0JpAAAAABFflKdoPtHBvUqDvipIcSyIrozsp0uKUfPL5LnC4NCRDNt5PNy7KYeW%252fJRsTW7bz3Ip3O2%252fTcna%26aka_media_format_type%3Dhls
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/master_500.m3u8?aka_me_session_id=AAAAAAAAAADjW0JpAAAAABFflKdoPtHBvUqDvipIcSyIrozsp0uKUfPL5LnC4NCRDNt5PNy7KYeW/JRsTW7bz3Ip3O2/Tcna%26aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Sony TWO
 https://allinonereborn.online/events/player.html?url=https://mini.allinonereborn.fun/events/stream_proxy.php?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2037141%2FDAI21-criclive%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1765904121~acl%3D%2F*~id%3D99673063709513707937411446002787~hmac%3D4e5fe95a510373fedc416743ea0d8252cd6390e5acdb8190266ed83d3655c213
