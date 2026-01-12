@@ -1,1 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/177843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 2 Telugu HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
