@@ -40,16 +40,16 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://tvsen5.aynascope.net/skynews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a" group-title="BYNA FREE",Hindi Khabar
-https://tvsen7.aynascope.net/HindiKhabar/index.m3u8?e=1768428678&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=56dc2e4e9d2ffe9347255b9f737fc2c9
+https://tvsen7.aynascope.net/HindiKhabar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="BYNA FREE",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d04287478c2aa26265b600174318992d" group-title="BYNA FREE",Bharat Samachar
-https://tvsen7.aynascope.net/BharatSamachar/index.m3u8?e=1768428679&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e2552131e8c091dec1f00b553e1b35c6
+https://tvsen7.aynascope.net/BharatSamachar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/18fb4fcb519d5df8323e48c1d58f5ae7" group-title="BYNA FREE",Fox News
-https://tvsen6.aynascope.net/foxnews/index.m3u8?e=1768428680&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fc5d929881de9e718db42826da071666
+https://tvsen6.aynascope.net/foxnews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/49b496bca6d7c67d53431e9238f83397" group-title="BYNA FREE",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
@@ -8590,6 +8590,7 @@ http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Jagga.Jagravan.Joga.2020.1080p.A
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Ranjha.Refugee.Full.MovieHD.Roshan.Prince.Sanvi.Dhiman.New.Punjabi.Movie.2020.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://tv.zaintv.net:80/images/fsJ7p5iXsNyvdHCXCLYzbgYRl3l_big.jpg",Sikander 2 (2019)
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/SIKANDER.2.Full.Movie.Guri.Kartar.Cheema.Latest.Punjabi.Movies.2020.mp4
+
 
 
 
