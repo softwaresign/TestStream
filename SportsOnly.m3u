@@ -7,6 +7,79 @@ https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index
 #EXTINF:-1 tvg-name="Willow Sports" group-title="BPL SPECIAL",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 
+#EXTINF:-1 tvg-id="zee-telugu-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/list/1920x1080list7d962673d8684a68b275025f4af506aa.jpg" group-title="ZEE5",Zee Telugu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
+
+#EXTINF:-1 tvg-id="zee-cinemalu-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="ZEE5",Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
+
+#EXTINF:-1 tvg-id="zee-telugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383485/list/1920x1080list2bed10081fb542f3b3353b1922d2504e.jpg" group-title="ZEE5",Zee Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
+
+
+#EXTINF:-1 tvg-id="zee-cinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="ZEE5",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",Gemini TV
+https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg", Gemini HD
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg", Gemini Movies HD
+https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg", Gemini Movies
+https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg", Gemini Music HD
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" ,Gemini Music
+https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",Gemini Comedy
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
+#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" ,Gemini Life
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo=" " group-title="Sports", TNT Sports 1
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 1 - Rs 19.00
+http://103.178.78.151:7505/play/a1qd/index.m3u8
+
+#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 3 - Rs 19.00
+http://103.182.170.32:8888/play/a03p
+
+#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 3 Hindi - Rs 19.00
+http://103.178.78.151:7505/play/a1pv/index.m3u8
+
+#EXTINF:-1 group-title="REAL IP2",Sony Sports Ten 4 HD - Rs 19.00
+http://103.182.170.32:8888/play/a036
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30" group-title="myCo LIVE",Mix TV - Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/177843.ts
@@ -89,10 +162,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/master.m3u8?hdntl=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
 
-#EXTINF:-1 tvg-id="zee-telugu-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/list/1920x1080list7d962673d8684a68b275025f4af506aa.jpg" group-title="ZEE5",Zee Telugu HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
-
 #EXTINF:-1 tvg-id="zee-kannada-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg" group-title="ZEE5",Zee Kannada HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
@@ -104,10 +173,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/master.m3u8?hdn
 #EXTINF:-1 tvg-id="zee-bangla-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg" group-title="ZEE5",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
-
-#EXTINF:-1 tvg-id="zee-cinemalu-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="ZEE5",Zee Cinemalu HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
 
 #EXTINF:-1 tvg-id="zee-talkies-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-title="ZEE5",Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -161,10 +226,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
 
-#EXTINF:-1 tvg-id="zee-telugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383485/list/1920x1080list2bed10081fb542f3b3353b1922d2504e.jpg" group-title="ZEE5",Zee Telugu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
-
 #EXTINF:-1 tvg-id="zee-marathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383486/list/1920x1080listb4e1d6116c3e45c6865e08a5a50cab00.jpg" group-title="ZEE5",Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
@@ -172,10 +233,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="zee-tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383487/list/1920x1080listf00742d846d24c75ae2016840ffc0c40.jpg" group-title="ZEE5",Zee Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
-
-#EXTINF:-1 tvg-id="zee-cinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="ZEE5",Zee Cinemalu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
 
 #EXTINF:-1 tvg-id="prive-hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -254,62 +311,8 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdn
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",Gemini TV
-https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg", Gemini HD
-https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg", Gemini Movies HD
-https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg", Gemini Movies
-https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg", Gemini Music HD
-https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" ,Gemini Music
-https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",Gemini Comedy
-https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
-#EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" ,Gemini Life
-https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo=" " group-title="Sports", TNT Sports 1
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-
-#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 1 - Rs 19.00
-http://103.178.78.151:7505/play/a1qd/index.m3u8
-
-#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 3 - Rs 19.00
-http://103.182.170.32:8888/play/a03p
-
-#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 3 Hindi - Rs 19.00
-http://103.178.78.151:7505/play/a1pv/index.m3u8
-
-#EXTINF:-1 group-title="REAL IP2",Sony Sports Ten 4 HD - Rs 19.00
-http://103.182.170.32:8888/play/a036
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30" group-title="myCo LIVE",Mix TV - Hollywood
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89" group-title="BYNA FREE",ABC 7 Bay
@@ -3079,6 +3082,7 @@ https://live2.shoq.com.pk/live/eds/Geo_Taiz/DASH/Geo_Taiz.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=862f51c48d8e562377602b63393215ef:9b96cb09903396cb5cfaa7253b103d26
 https://live2.shoq.com.pk/live/eds/Lahore_News_HD/DASH/Lahore_News_HD.mpd
+
 
 
 
