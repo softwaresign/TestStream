@@ -63,6 +63,8 @@ http://103.178.78.151:7505/play/a1pv/index.m3u8
 #EXTINF:-1 group-title="REAL IP2",Sony Sports Ten 4 HD - Rs 19.00
 http://103.182.170.32:8888/play/a036
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30" group-title="myCo LIVE",Mix TV - Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89" group-title="BYNA FREE",ABC 7 Bay
@@ -810,8 +812,6 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary_myco.m3u8
 https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250701%2Fmycolive-10jpg-1751381447882.webp&w=3840&q=30" group-title="myCo LIVE",Mix ONE
 https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251105%2Fmycolive-mix_1jpg-1762353499626.webp&w=3840&q=30" group-title="myCo LIVE",Mix TV - Hollywood
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30" group-title="myCo LIVE",CGTN Arabic
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8
 # Last Updated Time : 2026-01-15 03:29:56 (BD)
@@ -8443,6 +8443,7 @@ http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Jagga.Jagravan.Joga.2020.1080p.A
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Ranjha.Refugee.Full.MovieHD.Roshan.Prince.Sanvi.Dhiman.New.Punjabi.Movie.2020.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://tv.zaintv.net:80/images/fsJ7p5iXsNyvdHCXCLYzbgYRl3l_big.jpg",Sikander 2 (2019)
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/SIKANDER.2.Full.Movie.Guri.Kartar.Cheema.Latest.Punjabi.Movies.2020.mp4
+
 
 
 
