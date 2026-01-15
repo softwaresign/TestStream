@@ -4,6 +4,10 @@
 #EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194346" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194346/960x540_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" ,Kushi TV
 https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd
 
+#EXTINF:-1 tvg-name="Willow Sports" group-title="BPL SPECIAL",Willow Sports
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/177843.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 2 Telugu HD
@@ -848,8 +852,7 @@ https://tvsen5.aynascope.net/willowhd/index.m3u8
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="BPL SPECIAL",t sports
 https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=37d83092503f00eb77a1d6a96ecd9524026efb0a-891b31f05f070c4f2a3fb4af81672a82-1768427599-1768423999
-#EXTINF:-1 tvg-name="Willow Sports" group-title="BPL SPECIAL",Willow Sports
-http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+
 #EXTINF:-1 tvg-name="NagorikTV" group-title="BPL SPECIAL",NagorikTV
 http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL SPECIAL",BPL 2026
@@ -8443,6 +8446,7 @@ http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Jagga.Jagravan.Joga.2020.1080p.A
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Ranjha.Refugee.Full.MovieHD.Roshan.Prince.Sanvi.Dhiman.New.Punjabi.Movie.2020.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://tv.zaintv.net:80/images/fsJ7p5iXsNyvdHCXCLYzbgYRl3l_big.jpg",Sikander 2 (2019)
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/SIKANDER.2.Full.Movie.Guri.Kartar.Cheema.Latest.Punjabi.Movies.2020.mp4
+
 
 
 
