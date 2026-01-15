@@ -12,6 +12,20 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 =====================================
+#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 1 - Rs 19.00
+http://103.178.78.151:7505/play/a1qd/index.m3u8
+
+#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 3 - Rs 19.00
+http://103.182.170.32:8888/play/a03p
+
+#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 3 Hindi - Rs 19.00
+http://103.178.78.151:7505/play/a1pv/index.m3u8
+
+#EXTINF:-1 group-title="REAL IP2",Sony Sports Ten 4 HD - Rs 19.00
+http://103.182.170.32:8888/play/a036
+
+
+======================================
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89" group-title="BYNA FREE",ABC 7 Bay
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
@@ -1562,12 +1576,10 @@ http://103.178.78.151:7505/play/a0vl/index.m3u8
 http://103.178.78.151:7505/play/a1s7/index.m3u8
 #EXTINF:-1 group-title="REAL IP1",SONY SAB HD - Rs 19.00
 http://103.178.78.151:7505/play/a0ul/index.m3u8
-#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 1 - Rs 19.00
-http://103.178.78.151:7505/play/a1qd/index.m3u8
+
 #EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 2 HD - Rs 19.00
 http://103.178.78.151:7505/play/a16t/index.m3u8
-#EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 3 Hindi - Rs 19.00
-http://103.178.78.151:7505/play/a1pv/index.m3u8
+
 #EXTINF:-1 group-title="REAL IP1",SONY SPORTS TEN 5 HD - Rs 25.00
 http://103.178.78.151:7505/play/a1qa/index.m3u8
 #EXTINF:-1 group-title="REAL IP1",SONY YAY! - Rs 4.00
@@ -1738,8 +1750,7 @@ http://103.182.170.32:8888/play/a027
 http://103.182.170.32:8888/play/a03r
 #EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 1 - Rs 19.00
 http://103.182.170.32:8888/play/a04j
-#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 3 - Rs 19.00
-http://103.182.170.32:8888/play/a03p
+
 
 #EXTINF:-1 group-title="REAL IP2",SONY YAY! - Rs 4.00
 http://103.182.170.32:8888/play/a04m
@@ -1755,8 +1766,7 @@ http://103.182.170.32:8888/play/a03o
 http://103.182.170.32:8888/play/a03z
 #EXTINF:-1 group-title="REAL IP2",Sonic - Rs 1.00
 http://103.182.170.32:8888/play/a02s
-#EXTINF:-1 group-title="REAL IP2",Sony Sports Ten 4 HD - Rs 19.00
-http://103.182.170.32:8888/play/a036
+
 #EXTINF:-1 group-title="REAL IP2",Sports 18 - 1 HD - Rs 19.00
 http://103.182.170.32:8888/play/a04p
 #EXTINF:-1 group-title="REAL IP2",Sports 18 3 - Rs 4.00
@@ -8431,6 +8441,7 @@ http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Jagga.Jagravan.Joga.2020.1080p.A
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/Ranjha.Refugee.Full.MovieHD.Roshan.Prince.Sanvi.Dhiman.New.Punjabi.Movie.2020.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://tv.zaintv.net:80/images/fsJ7p5iXsNyvdHCXCLYzbgYRl3l_big.jpg",Sikander 2 (2019)
 http://vodlb2.zaintv.net:80/meDia/MoVies/PunMov/SIKANDER.2.Full.Movie.Guri.Kartar.Cheema.Latest.Punjabi.Movies.2020.mp4
+
 
 
 
