@@ -1,1 +1,104 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5tNz40VZ/IMG-2795.png",Miramax Movies
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RCLb94zt/IMG-2609.png",Rakuten  Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/1tdzd6JK/IMG-2303.png",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/CxSxcqXv/IMG-2291.png",Z Nation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/6TJpWKs2/IMG-2300.png",Alien Nation
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kGyp98CR/IMG-1999.png",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/W11QN9hN/IMG-2020.png",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8C4ksyxP/IMG-2459.png",Wild Nature
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/491.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3JG8qT3v/IMG-2388.png",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3rndcBm7/IMG-2759.png",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/W43R9LsR/IMG-2658.png",Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fRB3Sn2r/IMG-2847.png",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fRvjTbpX/IMG-2338.png",We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/FKvcMsMd/IMG-2503.png",Outdoor America
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/jqPth0Tk/IMG-2599.png",Gusto TV
+https://amg01077-gustoworldwidem-gustotvnz-samsungnz-3fu5q.amagi.tv/ts-eu-w1-n2/playlist/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/1t8HXPZK/IMG-2660.png",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/wj8tGkpF/IMG-1945.png",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="Sin Categoría",Magnolia Network (US)(p)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279432.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://s3.aynaott.com/storage/22af43810a37af9a151f1e0a23adde63",Rakuten Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://s3.aynaott.com/storage/6582012e3abcd6ee6e2131f4df4a780c",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
+#EXTINF:-1 group-title="English" tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://s3.aynaott.com/storage/a23f256ae7f1322fc7a6ab663410064b",Hallmark Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+#EXTINF:-1 group-title="English" tvg-logo="https://s3.aynaott.com/storage/cc27c2c28dc21f1b42ac7179796ebb0a",Movie Favorites By Lifetime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
+
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://s3.aynaott.com/storage/db7c01318e8ef69c934c805e13ff0332",Movie Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 group-title="Channels" tvg-logo="https://s3.aynaott.com/storage/70abb5e2633d3f8aef7bd00940f0f650",My Time Movie Network
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Channels" tvg-logo="https://s3.aynaott.com/storage/1e7dc35fdb26ce3aca17b41fae1aa56f",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Channels" tvg-logo="https://s3.aynaott.com/storage/14a329b450239b9a4beaa4953c33367b",CMAC TV
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",SHEEMAROO BOLLYWOOD
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23111/9x-jalwa/poster_20230328_212825.jpg",9X Jalwa
+https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",FOX Cricket 501
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",FIGHT | FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",MIXER | InTrouble
+https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png",CR | Cricket Gold
+https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",ABC 7 Bay
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://s3.aynaott.com/storage/8ab8956c9d9128f39ef21487a38f47a3",Sony TEN 2
+https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNASIONAL",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+
+#EXTINF:-1 group-title="NEWS INTERNASIONAL",NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Hindi Music",Hindi Hits
+http://146.59.253.52:8080/hindihits/index.m3u8
+#EXTINF:-1 group-title="Hindi",SONY SAB
+http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
+#EXTINF:-1 group-title="English Movie",Movie LA USA
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movie",KIX
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 group-title="MUSIC",8X music
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
 
