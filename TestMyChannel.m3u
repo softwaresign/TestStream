@@ -1,43 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU One
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU Hey
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Sony One
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/master_500.m3u8?aka_me_session_id=AAAAAAAAAADjW0JpAAAAABFflKdoPtHBvUqDvipIcSyIrozsp0uKUfPL5LnC4NCRDNt5PNy7KYeW/JRsTW7bz3Ip3O2/Tcna%26aka_media_format_type=hls
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Sony TWO
-https://allinonereborn.online/events/player.html?url=https://mini.allinonereborn.fun/events/stream_proxy.php?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2037141%2FDAI21-criclive%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1765904121~acl%3D%2F*~id%3D99673063709513707937411446002787~hmac%3D4e5fe95a510373fedc416743ea0d8252cd6390e5acdb8190266ed83d3655c213
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Sony Three
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765904121~acl=/*~id=99673063709513707937411446002787~hmac=4e5fe95a510373fedc416743ea0d8252cd6390e5acdb8190266ed83d3655c213
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Sony Four
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/hdntl=exp=1765956579~acl=/*~id=99673063709513707937411446002787~data=hdntl%2C2037141%2CDAI21-criclive%2Cnone~hmac=c5f31b144cd8c623729c58802b87cb88250f1834b00d1db02de47cb0ef39d845/master_500.m3u8?aka_me_session_id=AAAAAAAAAADjW0JpAAAAABFflKdoPtHBvUqDvipIcSyIrozsp0uKUfPL5LnC4NCRDNt5PNy7KYeW/JRsTW7bz3Ip3O2/Tcna%26aka_media_format_type=hls
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Willow
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Willow two
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", Willow three
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-
-
-
+#EXTINF:-1, Channel1           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373474.ts
+#EXTINF:-1, Channel2           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373484.ts
+#EXTINF:-1, Channel3          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373485.ts
+#EXTINF:-1, Channel4         
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373483.ts
+#EXTINF:-1, Channel5          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373482.ts
+#EXTINF:-1, Channel6           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373489.ts
+#EXTINF:-1, Channel7           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373491.ts
+#EXTINF:-1, Channel8           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373492.ts
+#EXTINF:-1, Channel9           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373495.ts
+#EXTINF:-1, Channel10           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/373496.ts
+#EXTINF:-1, Channel11           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809383.ts
+#EXTINF:-1, Channel12           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809384.ts
+#EXTINF:-1, Channel13           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809385.ts
+#EXTINF:-1, Channel14           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809386.ts
+#EXTINF:-1, Channel15           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809381.ts
+#EXTINF:-1, Channel16           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809382.ts
+#EXTINF:-1, Channel17          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809387.ts
+#EXTINF:-1, Channel18           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809388.ts
+#EXTINF:-1, Channel19           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809389.ts
+#EXTINF:-1, Channel20           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809390.ts
+#EXTINF:-1, Channel21           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809391.ts
+#EXTINF:-1, Channel22           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809392.ts
+#EXTINF:-1, Channel23           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809393.ts
+#EXTINF:-1, Channel24           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809394.ts
+#EXTINF:-1, Channel25           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809395.ts
+#EXTINF:-1, Channel26           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809396.ts
+#EXTINF:-1, Channel27           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809397.ts
+#EXTINF:-1, Channel28           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809398.ts
+#EXTINF:-1, Channel29           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809399.ts
+#EXTINF:-1, Channel30           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809400.ts
+#EXTINF:-1, Channel31           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809401.ts
+#EXTINF:-1, Channel32          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809402.ts
+#EXTINF:-1, Channel33          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809403.ts
+#EXTINF:-1, Channel34         
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809404.ts
+#EXTINF:-1, Channel35          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809405.ts
+#EXTINF:-1, Channel36           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809406.ts
+#EXTINF:-1, Channel37           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809407.ts
+#EXTINF:-1, Channel38           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809408.ts
+#EXTINF:-1, Channel39           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809409.ts
+#EXTINF:-1, Channel40           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809410.ts
+#EXTINF:-1, Channel41           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809411.ts
+#EXTINF:-1, Channel42           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809412.ts
+#EXTINF:-1, Channel43          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809413.ts
+#EXTINF:-1, Channel44          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809414.ts
+#EXTINF:-1, Channel45           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809415.ts
+#EXTINF:-1, Channel46           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809416.ts
+#EXTINF:-1, Channel47           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809417.ts
+#EXTINF:-1, Channel48           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809418.ts
+#EXTINF:-1, Channel49           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809419.ts
+#EXTINF:-1, Channel50           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809420.ts
+#EXTINF:-1, Channel51           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809421.ts
+#EXTINF:-1, Channel52           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809422.ts
+#EXTINF:-1, Channel53           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809423.ts
+#EXTINF:-1, Channel54          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809424.ts
+#EXTINF:-1, Channel55           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809425.ts
+#EXTINF:-1, Channel56           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809426.ts
+#EXTINF:-1, Channel57           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809427.ts
+#EXTINF:-1, Channel58           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809428.ts
+#EXTINF:-1, Channel59         
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809429.ts
+#EXTINF:-1, Channel60           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809430.ts
+#EXTINF:-1, Channel61           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809431.ts
+#EXTINF:-1, Channel62           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809432.ts
+#EXTINF:-1, Channel63           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809433.ts
+#EXTINF:-1, Channel64           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809434.ts
+#EXTINF:-1, Channel65           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809435.ts
+#EXTINF:-1, Channel66          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809436.ts
+#EXTINF:-1, Channel67          
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809437.ts
+#EXTINF:-1, Channel68           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809438.ts
+#EXTINF:-1, Channel69           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809439.ts
+#EXTINF:-1, Channel70           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809440.ts
+#EXTINF:-1, Channel71           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809441.ts
+#EXTINF:-1, Channel72           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809442.ts
+#EXTINF:-1, Channel73           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809443.ts
+#EXTINF:-1, Channel74           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809444.ts
+#EXTINF:-1, Channel75           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809445.ts
+#EXTINF:-1, Channel76           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809446.ts
+#EXTINF:-1, Channel77           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809447.ts
+#EXTINF:-1, Channel78           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809448.ts
+#EXTINF:-1, Channel79           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809449.ts
+#EXTINF:-1, Channel80           
+http://line.tivi-ott.net:80/live/L4CXSV/G2JBCU/809450.ts
