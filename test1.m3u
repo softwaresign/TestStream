@@ -69,10 +69,11 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 
 
 
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1753202207980_l_high.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 TELUGU
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="" group-title="SPORTS - CRICKET ",SSPORTS 1 TELUGU
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68191.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 2 TELUGU
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="" group-title="SPORTS - CRICKET ",SSPORTS 2 TELUGU
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68192.m3u8
+
 
 
 
