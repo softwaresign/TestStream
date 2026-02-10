@@ -1,98 +1,586 @@
 #EXTM3U
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg" ,Star Sports 1 Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_high.jpg" ,Star Sports 1 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188405640_l_high.jpg" ,Star Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_high.jpg" ,Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_high.jpg" ,Star Sports 2 Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" ,Star Sports 2 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" ,Star Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_high.jpg" ,Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/11/37/301993_1753188280006_l_high.jpg" ,Star Sports 2 Kannada
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd
+#EXTINF:-1 group-title="Kids",Hungama
+https://2025.telegram-akshaybk29.workers.dev/channel?id=1
 
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1753202207980_l_high.jpg" ,Star Sports 2 Tamil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd
+#EXTINF:-1 group-title="Animax",Animax
+https://2025.telegram-akshaybk29.workers.dev/channel?id=2
 
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" ,Star Sports 1 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports1_Telugu_HD_BTS/output/index.mpd
+#EXTINF:-1 group-title="Kids",Super Hungama
+https://2025.telegram-akshaybk29.workers.dev/channel?id=3
 
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" ,Star Sports 2 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
+#EXTINF:-1 group-title="Kids",Cartoon Network Hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=4
 
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="" group-title="SPORTS - CRICKET ",SSPORTS 1 TELUGU
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68191.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="" group-title="SPORTS - CRICKET ",SSPORTS 2 TELUGU
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68192.m3u8
+#EXTINF:-1 group-title="Kids",Etv Bal Bharat
+https://2025.telegram-akshaybk29.workers.dev/channel?id=5
 
+#EXTINF:-1 group-title="Kids",Disney Junior
+https://2025.telegram-akshaybk29.workers.dev/channel?id=6
 
+#EXTINF:-1 group-title="Kids",Disney hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=7
 
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=8
 
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR-MAA (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=9
 
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR-MAA-MOVIE (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=10
 
+#EXTINF:-1 group-title="TELUGU",Telugu: ZEE-TELUGU (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=11
 
+#EXTINF:-1 group-title="TELUGU",Telugu: ZEE-CINEMALU (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=12
 
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV (FHD)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=13
 
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR-MAA (FHD)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=14
 
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR-MAA-MOVIE (FHD)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=15
 
+#EXTINF:-1 group-title="TELUGU",Telugu: GEMINI (FHD)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=16
 
+#EXTINF:-1 group-title="TELUGU",Telugu: ZEE-TELUGU (FHD)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=17
 
+#EXTINF:-1 group-title="TELUGU",Telugu: ZEE-CINEMALU (FHD)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=18
 
+#EXTINF:-1 group-title="TELUGU",Telugu: GEMINI MUSIC (4K)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=19
 
+#EXTINF:-1 group-title="TELUGU",Telugu: GEMINI MOVIE (4K)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=20
 
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR MAA TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=21
+
+#EXTINF:-1 group-title="TELUGU",Telugu: TV 5 News
+https://2025.telegram-akshaybk29.workers.dev/channel?id=22
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Gemini_Movies_HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=23
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Gemini_Music_HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=24
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Gemini_TV_HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=25
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Sony_BBC_Earth_HD_Telugu
+https://2025.telegram-akshaybk29.workers.dev/channel?id=26
+
+#EXTINF:-1 group-title="TELUGU",Telugu:  V6_News
+https://2025.telegram-akshaybk29.workers.dev/channel?id=27
+
+#EXTINF:-1 group-title="TELUGU",Telugu:  Sri_Venkateshwar_Bhakti
+https://2025.telegram-akshaybk29.workers.dev/channel?id=28
+
+#EXTINF:-1 group-title="TELUGU",Telugu:  ABN_Andhra_Jyothi
+https://2025.telegram-akshaybk29.workers.dev/channel?id=29
+
+#EXTINF:-1 group-title="TELUGU",Telugu: NTV TELUGU
+https://2025.telegram-akshaybk29.workers.dev/channel?id=30
+
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV Plus
+https://2025.telegram-akshaybk29.workers.dev/channel?id=31
+
+#EXTINF:-1 group-title="TELUGU",IN: Raj Music Telugu
+https://2025.telegram-akshaybk29.workers.dev/channel?id=32
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Vissa TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=33
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Zee Telugu HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=34
+
+#EXTINF:-1 group-title="TELUGU",Telugu: DD Saptagiri
+https://2025.telegram-akshaybk29.workers.dev/channel?id=35
+
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR MAA MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=36
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Zee Cinemalu HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=37
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Etv HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=38
+
+#EXTINF:-1 group-title="TELUGU",Telugu: GEMINI COMEDY HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=39
+
+#EXTINF:-1 group-title="TELUGU",Telugu: STAR MAA GOLD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=40
+
+#EXTINF:-1 group-title="TELUGU",Telugu: GEMINI LIFE HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=41
+
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV Cinema (4K)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=42
+
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV AndhraPradesh
+https://2025.telegram-akshaybk29.workers.dev/channel?id=43
+
+#EXTINF:-1 group-title="TELUGU",Telugu: TV9 NEWS HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=44
+
+#EXTINF:-1 group-title="TELUGU",Telugu: Sakshi TV (News)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=45
+
+#EXTINF:-1 group-title="TELUGU",Telugu: T News HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=46
+
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV Telangana
+https://2025.telegram-akshaybk29.workers.dev/channel?id=47
+
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV Life
+https://2025.telegram-akshaybk29.workers.dev/channel?id=48
+
+#EXTINF:-1 group-title="TELUGU",Telugu: ETV Abhiruchi
+https://2025.telegram-akshaybk29.workers.dev/channel?id=49
+
+#EXTINF:-1 group-title="TELUGU",Telugu: SVBC HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=50
+
+#EXTINF:-1 group-title="TELUGU",Telugu: BHAKTI TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=51
+
+#EXTINF:-1 group-title="TELUGU",TELUGU:  RAJ NEWS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=52
+
+#EXTINF:-1 group-title="TELUGU",TELUGU: Star Maa Music
+https://2025.telegram-akshaybk29.workers.dev/channel?id=53
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",24/7: Telugu_2022_2021_Collection_vol_1
+https://2025.telegram-akshaybk29.workers.dev/channel?id=54
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=55
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=56
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 3 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=57
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 4 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=58
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-EROSNOW MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=59
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=60
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=61
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=62
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=63
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-ACTION DRAMA MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=64
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=65
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-ACTION CRIME MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=66
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-ACTION THRILLER MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=67
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-THRILLER MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=68
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-ROMANCE MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=69
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-MYSTERY MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=70
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY ROMANCE MOVES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=71
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY DRAMA MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=72
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-CRIME MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=73
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-CRIME DRAMA MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=74
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=75
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA ROMANCE MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=76
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA THRILLER MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=77
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-FANTASY MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=78
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-HORROR MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=79
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-HORROR THRILLER MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=80
+
+#EXTINF:-1 group-title="TELUGU MOVIES 24/7",TELUGU-MUSICAL MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=81
+
+#EXTINF:-1 group-title="TAMIL",Tamil: Sathiyam Tv news
+https://2025.telegram-akshaybk29.workers.dev/channel?id=82
+
+#EXTINF:-1 group-title="TAMIL",TM: JothiTV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=83
+
+#EXTINF:-1 group-title="TAMIL",TM: SVBC 2 SD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=84
+
+#EXTINF:-1 group-title="TAMIL",TM: DD Tamil
+https://2025.telegram-akshaybk29.workers.dev/channel?id=85
+
+#EXTINF:-1 group-title="TAMIL",TM: Tamil Janam
+https://2025.telegram-akshaybk29.workers.dev/channel?id=86
+
+#EXTINF:-1 group-title="TAMIL",TM: Thanthi One
+https://2025.telegram-akshaybk29.workers.dev/channel?id=87
+
+#EXTINF:-1 group-title="TAMIL",TM: Raj News Tamil
+https://2025.telegram-akshaybk29.workers.dev/channel?id=88
+
+#EXTINF:-1 group-title="ALL BIGG BOSS 24X7",TML | BIGG BOSS 24x7 | TAMIL
+https://2025.telegram-akshaybk29.workers.dev/channel?id=89
+
+#EXTINF:-1 group-title="TAMIL",TM: KAIRALI NEWS HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=90
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",24/7: Globe_Tamil_Bloclbuster
+https://2025.telegram-akshaybk29.workers.dev/channel?id=91
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",24/7: Tamil Movies Vol_1
+https://2025.telegram-akshaybk29.workers.dev/channel?id=92
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",24/7: Tamil_Collection_Vol 2
+https://2025.telegram-akshaybk29.workers.dev/channel?id=93
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",24/7: Tamil_Collection_Vol 3
+https://2025.telegram-akshaybk29.workers.dev/channel?id=94
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",24/7: Tamil_2022_2021_Collection_vol_1
+https://2025.telegram-akshaybk29.workers.dev/channel?id=95
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=96
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-MOVIES 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=97
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-MOVIES 3 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=98
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-MOVIES 4 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=99
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-MOVIES 5 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=100
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-CRIME MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=101
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-DRAMA MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=102
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-DRAMA MOVIES 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=103
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-DRAMA MOVIES 4 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=104
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-DRAMA MOVIES 5 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=105
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-ACTION MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=106
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-ACTION MOVIES 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=107
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-ROMANCE MOVIES 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=108
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-SIVAJI GANESAN MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=109
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-PARABHU MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=110
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-KARTHI MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=111
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-JAYAM RAVI MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=112
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL-ARYA MOVIES HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=113
+
+#EXTINF:-1 group-title="TAMIL",Tamil: Colors Tamil (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=114
+
+#EXTINF:-1 group-title="TAMIL",Tamil: Zee Tamil (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=115
+
+#EXTINF:-1 group-title="TAMIL",Tamil: VIJAY TV (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=116
+
+#EXTINF:-1 group-title="TAMIL",Tamil: SUNTV (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=117
+
+#EXTINF:-1 group-title="TAMIL",Tamil: SUN-MUSIC (4K).
+https://2025.telegram-akshaybk29.workers.dev/channel?id=118
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=119
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN MUSIC HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=120
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: KTV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=121
+
+#EXTINF:-1 group-title="TAMIL",TM: JAYA TV (4K)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=122
+
+#EXTINF:-1 group-title="TAMIL",TM: ANGEL TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=123
+
+#EXTINF:-1 group-title="TAMIL",TM: SONY BBC EARTH HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=124
+
+#EXTINF:-1 group-title="TAMIL",TM: ZEE TAMIL
+https://2025.telegram-akshaybk29.workers.dev/channel?id=125
+
+#EXTINF:-1 group-title="TAMIL",TM: POLIMER NEWS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=126
+
+#EXTINF:-1 group-title="TAMIL",TM: JAYA MAX
+https://2025.telegram-akshaybk29.workers.dev/channel?id=127
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN LIFE
+https://2025.telegram-akshaybk29.workers.dev/channel?id=128
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN NEWS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=129
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: VIJAY SUPER (4K)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=130
+
+#EXTINF:-1 group-title="TAMIL",TM: JAYA PLUS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=131
+
+#EXTINF:-1 group-title="TAMIL",TM: RAJ DIGITAL PLUS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=132
+
+#EXTINF:-1 group-title="TAMIL",TM: POLIMER TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=133
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: JAYA MOVIES
+https://2025.telegram-akshaybk29.workers.dev/channel?id=134
+
+#EXTINF:-1 group-title="TAMIL",TM: RAJ TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=135
+
+#EXTINF:-1 group-title="TAMIL",TM: VENDHAR TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=136
+
+#EXTINF:-1 group-title="TAMIL",TM: VIJAY TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=137
+
+#EXTINF:-1 group-title="TAMIL",TM: AASTHA TAMIL HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=138
+
+#EXTINF:-1 group-title="TAMIL",TM: ANGEL TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=139
+
+#EXTINF:-1 group-title="TAMIL",TM: ANGEL TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=140
+
+#EXTINF:-1 group-title="TAMIL",TM: ANGEL TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=141
+
+#EXTINF:-1 group-title="TAMIL",TM: COLORS TAMIL HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=142
+
+#EXTINF:-1 group-title="TAMIL",TM: DD PODHIGAI
+https://2025.telegram-akshaybk29.workers.dev/channel?id=143
+
+#EXTINF:-1 group-title="TAMIL",TM: JAYA TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=144
+
+#EXTINF:-1 group-title="TAMIL",TM: Kalaignar TV News
+https://2025.telegram-akshaybk29.workers.dev/channel?id=145
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: KTV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=146
+
+#EXTINF:-1 group-title="TAMIL",TM: MADHA TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=147
+
+#EXTINF:-1 group-title="TAMIL",TM: MAKKAL TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=148
+
+#EXTINF:-1 group-title="TAMIL",TM: NEWS 18 TAMIL NADU HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=149
+
+#EXTINF:-1 group-title="TAMIL",TM: NEWS 7 TAMIL HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=150
+
+#EXTINF:-1 group-title="TAMIL",TM: NEWS J
+https://2025.telegram-akshaybk29.workers.dev/channel?id=151
+
+#EXTINF:-1 group-title="TAMIL",TM: PEPPERS TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=152
+
+#EXTINF:-1 group-title="TAMIL",TM: PUTHIYA THALAIMURAI TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=153
+
+#EXTINF:-1 group-title="TAMIL",TM: POLIMER NEWS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=154
+
+#EXTINF:-1 group-title="TAMIL",TM: PUTHU YUGAmM TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=155
+
+#EXTINF:-1 group-title="TAMIL",TM: RAJ TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=156
+
+#EXTINF:-1 group-title="TAMIL",TM: STAR VIJAY HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=157
+
+#EXTINF:-1 group-title="TAMIL",TM: STAR VIJAY INDIA FHD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=158
+
+#EXTINF:-1 group-title="TAMIL",TM: STAR VIJAY HD (Vip)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=159
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN LIFE HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=160
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN LIFE HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=161
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN MUSIC HD VIP (USA)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=162
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=163
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=164
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=165
+
+#EXTINF:-1 group-title="TAMIL",TM: SUN NEWS
+https://2025.telegram-akshaybk29.workers.dev/channel?id=166
+
+#EXTINF:-1 group-title="TAMIL",TM: ZEE TAMIL HD (USA)
+https://2025.telegram-akshaybk29.workers.dev/channel?id=167
+
+#EXTINF:-1 group-title="TAMIL",TM: VENDHAR TV HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=168
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: SIRIPPOLI TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=169
+
+#EXTINF:-1 group-title="TAMIL",TM: KALAIGNAR TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=170
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: ADITYA TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=171
+
+#EXTINF:-1 group-title="TAMIL",TM: VASANTH TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=172
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TM: J MOVIES
+https://2025.telegram-akshaybk29.workers.dev/channel?id=173
+
+#EXTINF:-1 group-title="TAMIL",TM: MALAI MURASU TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=174
+
+#EXTINF:-1 group-title="TAMIL",TM: RAJ MUSIX TAMIL
+https://2025.telegram-akshaybk29.workers.dev/channel?id=175
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: TRAVEL XP
+https://2025.telegram-akshaybk29.workers.dev/channel?id=176
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: VIJAY MUSIC
+https://2025.telegram-akshaybk29.workers.dev/channel?id=177
+
+#EXTINF:-1 group-title="TAMIL",Tamil: D TAMIL
+https://2025.telegram-akshaybk29.workers.dev/channel?id=178
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",Tamil: MEGA 24
+https://2025.telegram-akshaybk29.workers.dev/channel?id=179
+
+#EXTINF:-1 group-title="TAMIL",Tamil: MEGA MUSIQ
+https://2025.telegram-akshaybk29.workers.dev/channel?id=180
+
+#EXTINF:-1 group-title="TAMIL",Tamil: ISAI ARUVI
+https://2025.telegram-akshaybk29.workers.dev/channel?id=181
+
+#EXTINF:-1 group-title="TAMIL",Tamil: MEGA TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=182
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: MURASU TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=183
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: SRI SHANKARA TAMIL
+https://2025.telegram-akshaybk29.workers.dev/channel?id=184
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: MK TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=185
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: MK SIX
+https://2025.telegram-akshaybk29.workers.dev/channel?id=186
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: CHITHIRAM
+https://2025.telegram-akshaybk29.workers.dev/channel?id=187
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: SUN TV USA
+https://2025.telegram-akshaybk29.workers.dev/channel?id=188
+
+#EXTINF:-1 group-title="TAMIL",Tamil: Chutti Tv
+https://2025.telegram-akshaybk29.workers.dev/channel?id=189
+
+#EXTINF:-1 group-title="TAMIL",Tamil: THANTHI TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=190
+
+#EXTINF:-1 group-title="TAMIL | MOVIES",TAMIL: Zee Thirai
+https://2025.telegram-akshaybk29.workers.dev/channel?id=191
+
+#EXTINF:-1 group-title="TAMIL",Tamil : Sri Sankara TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=192
+
+#EXTINF:-1 group-title="TAMIL",TAMIL: News Tamil 24x7
+https://2025.telegram-akshaybk29.workers.dev/channel?id=193
+
+#EXTINF:-1 group-title="Kids",Etv Bal Bharat
+https://2025.telegram-akshaybk29.workers.dev/channel?id=194
+
+#EXTINF:-1 group-title="sports",Star Sports Telugu hd2
+https://2025.telegram-akshaybk29.workers.dev/channel?id=195
 
