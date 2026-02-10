@@ -101,4 +101,263 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 group-title="MUSIC",8X music
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg" ,Star Sports 1 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_high.jpg" ,Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188405640_l_high.jpg" ,Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_high.jpg" ,Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_high.jpg" ,Star Sports 2 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" ,Star Sports 2 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" ,Star Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_high.jpg" ,Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/11/37/301993_1753188280006_l_high.jpg" ,Star Sports 2 Kannada
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd
+
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1753202207980_l_high.jpg" ,Star Sports 2 Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" ,Star Sports 2 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-name="STAR SPORTS 1 4K HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12065.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 4K HINDI
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/73377.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 01" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59459.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 01
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/71253.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 02" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59456.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 02
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/71241.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 03" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59457.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 03
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75923.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 04" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59460.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 04
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75915.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 05" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60830.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 05
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75881.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 06" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60831.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 06
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61050.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 07" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60832.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 07
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75899.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 08" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60833.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 08
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75930.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 09" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60829.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 09
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75903.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 10" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59458.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 10
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75914.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/68537.png" group-title="SPORTS - CRICKET ",T20 WORLD CUP FOR VISUALLY IMPAIRED
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68191.m3u8
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2873.jpg" group-title="SPORTS - CRICKET ",SKY SPORTS 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/76000.m3u8
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K UK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8810.jpg" group-title="SPORTS - CRICKET ",SKY SPORTS CRICKET 4K UK
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75958.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12067.jpeg" group-title="SPORTS - CRICKET ",STAR SPORTS SELECT 1 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12151.m3u8
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12068.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS SELECT 2 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12152.m3u8
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="STAR SPORTS 1 4K ENGLISH" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12064.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 4K ENGLISH
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/71115.m3u8
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="STAR SPORTS 2 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12066.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 2 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/74245.m3u8
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="STAR SPORTS 3 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12071.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 3 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12155.m3u8
+#EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="STAR SPORTS 1 KANNADA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12069.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 KANNADA HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12153.m3u8
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12070.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 TAMIL HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12154.m3u8
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="WILLOW SPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12077.png" group-title="SPORTS - CRICKET ",WILLOW SPORTS 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75932.m3u8
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="WILLOW CRICKET USA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12085.png" group-title="SPORTS - CRICKET ",WILLOW CRICKET USA HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75946.m3u8
+#EXTINF:-1 tvg-id="willowxtra.us" tvg-name="WILLOW EXTRA USA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12086.png" group-title="SPORTS - CRICKET ",WILLOW EXTRA USA HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75990.m3u8
+#EXTINF:-1 tvg-id="willowxtra.us" tvg-name="WILLOW EXTRA 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12078.png" group-title="SPORTS - CRICKET ",WILLOW EXTRA 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75987.m3u8
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="WILLOW CRICKET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2001.png" group-title="SPORTS - CRICKET ",WILLOW CRICKET
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75955.m3u8
+#EXTINF:-1 tvg-id="willowxtra.us" tvg-name="WILLOW EXTRA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2002.png" group-title="SPORTS - CRICKET ",WILLOW EXTRA
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/2085.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="FLOW SPORTS CRICKET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/49804.png" group-title="SPORTS - CRICKET ",FLOW SPORTS CRICKET
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/50011.m3u8
+#EXTINF:-1 tvg-id="Default" tvg-name="FLOW SPORTS 2 CRICKET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62079.png" group-title="SPORTS - CRICKET ",FLOW SPORTS 2 CRICKET
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/62314.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="TEN SPORTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12082.png" group-title="SPORTS - CRICKET ",TEN SPORTS
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12166.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="A SPORTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/30845.jpg" group-title="SPORTS - CRICKET ",A SPORTS
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/30975.m3u8
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12088.jpg" group-title="SPORTS - CRICKET ",PTV SPORTS.
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/73037.m3u8
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS PAK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11950.jpg" group-title="SPORTS - CRICKET ",PTV SPORTS PAK
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12034.m3u8
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO CRICKET 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12057.png" group-title="SPORTS - CRICKET ",ASTRO CRICKET 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75975.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="ESPN CRICKET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59451.png" group-title="SPORTS - CRICKET ",ESPN CRICKET
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/59667.m3u8
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SUPER SPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12083.png" group-title="SPORTS - CRICKET ",SUPER SPORTS 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12167.m3u8
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SUPERSPORT GRANDSTAND" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/57924.png" group-title="SPORTS - CRICKET ",SUPERSPORT GRANDSTAND
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/58140.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS 18" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61253.png" group-title="SPORTS - CRICKET ",SPORTS 18
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61475.m3u8
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO CRICKET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/3276.png" group-title="SPORTS - CRICKET ",ASTRO CRICKET
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/66607.m3u8
+#EXTINF:-1 tvg-id="default" tvg-name="JIO CRICKET ENGLISH" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60798.jpg" group-title="SPORTS - CRICKET ",JIO CRICKET ENGLISH
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61017.m3u8
+#EXTINF:-1 tvg-id="default" tvg-name="JIO CRICKET 1" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60800.jpg" group-title="SPORTS - CRICKET ",JIO CRICKET 1
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61019.m3u8
+#EXTINF:-1 tvg-id="default" tvg-name="JIO CRICKET 2" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60809.jpg" group-title="SPORTS - CRICKET ",JIO CRICKET 2
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61028.m3u8
+#EXTINF:-1 tvg-id="default" tvg-name="JIO CRICKET 3" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60802.jpg" group-title="SPORTS - CRICKET ",JIO CRICKET 3
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61021.m3u8
+#EXTINF:-1 tvg-id="default" tvg-name="JIO CRICKET 4" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60803.jpg" group-title="SPORTS - CRICKET ",JIO CRICKET 4
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61022.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/753.jpg" group-title="SPORTS - CRICKET ",SONY TEN 1 HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/836.m3u8
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="SONY TEN 2 INDIA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/537.png" group-title="SPORTS - CRICKET ",SONY TEN 2 INDIA HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/620.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/538.png" group-title="SPORTS - CRICKET ",SONY TEN 3 HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/621.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T SPORTS BANGLA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12020.jpg" group-title="SPORTS - CRICKET ",T SPORTS BANGLA
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12104.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET MAX" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/41869.jpg" group-title="SPORTS - CRICKET ",CRICKET MAX
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/42051.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET PLUS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/43723.jpg" group-title="SPORTS - CRICKET ",CRICKET PLUS
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/43933.m3u8
+#EXTINF:-1 tvg-id="eurosporthd.hr" tvg-name="EUROSPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12059.png" group-title="SPORTS - CRICKET ",EUROSPORTS 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12143.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12087.jpg" group-title="SPORTS - CRICKET ",DD SPORTS.
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12171.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PTV SPORTS RAW" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12081.jpg" group-title="SPORTS - CRICKET ",PTV SPORTS RAW
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12165.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="GEO SUPER" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12080.jpg" group-title="SPORTS - CRICKET ",GEO SUPER
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12164.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="FOX CRICKET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62869.png" group-title="SPORTS - CRICKET ",FOX CRICKET
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75982.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="SPORTS CA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8567.png" group-title="SPORTS - CRICKET ",SPORTS CA
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/8651.m3u8
+#EXTINF:-1 tvg-id="sonysix.in" tvg-name="SONY SIX 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12060.png" group-title="SPORTS - CRICKET ",SONY SIX 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12144.m3u8
+#EXTINF:-1 tvg-id="eurosporthd.hr" tvg-name="EUROSPORTS HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/723.png" group-title="SPORTS - CRICKET ",EUROSPORTS HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/806.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/777.jpg" group-title="SPORTS - CRICKET ",DD SPORTS
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/860.m3u8
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SIX HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/998.jpg" group-title="SPORTS - CRICKET ",SONY SIX HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/1081.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="TEN SPORTS PK PAK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11970.png" group-title="SPORTS - CRICKET ",TEN SPORTS PK PAK
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12054.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="RUSH" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/6002.png" group-title="SPORTS - CRICKET ",RUSH
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/6086.m3u8
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="SONY TEN2 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62345.jpg" group-title="SPORTS - CRICKET ",SONY TEN2 HD
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/62593.m3u8
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="SONY TEN 1 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12061.jpg" group-title="SPORTS - CRICKET ",SONY TEN 1 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12145.m3u8
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="SONY TEN 2 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12062.png" group-title="SPORTS - CRICKET ",SONY TEN 2 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12146.m3u8
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-name="SONY TEN 3 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12063.png" group-title="SPORTS - CRICKET ",SONY TEN 3 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12147.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="SONY TEN 4 4k" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12089.png" group-title="SPORTS - CRICKET ",SONY TEN 4 4k
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12173.m3u8
+#EXTINF:-1 tvg-id="Default" tvg-name="SONY TEN 5 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72256.jpg" group-title="SPORTS - CRICKET ",SONY TEN 5 4K
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/72760.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="WILLOW TV CA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72405.png" group-title="SPORTS - CRICKET ",WILLOW TV CA
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75940.m3u8
+#EXTINF:-1 tvg-id="foxsports501.au" tvg-name="FOX SPORTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/28020.png" group-title="SPORTS - CRICKET ",FOX SPORTS
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/28140.m3u8
+#EXTINF:-1 tvg-id="la.FOX Sports 2" tvg-name="FOX SPORTS 2" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/6106.png" group-title="SPORTS - CRICKET ",FOX SPORTS 2
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/6190.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="FOX SPORTS 3" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/57923.png" group-title="SPORTS - CRICKET ",FOX SPORTS 3
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/58139.m3u8
+#EXTINF:-1 tvg-id="Default" tvg-name="STAR SPORTS KHEL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/74073.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS KHEL
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75313.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="STAR SPORTS 2 HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/74143.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 2 HINDI
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75481.m3u8
+#EXTINF:-1 tvg-id="I712.68605.schedulesdirect.org" tvg-name="WILLOW SPORTS 4K" tvg-logo="" group-title="SPORTS",WILLOW SPORTS 4K
+https://airtel.rkdyiptv.workers.dev/live/6283.m3u8
+#EXTINF:-1 tvg-id="I712.68605.schedulesdirect.org" tvg-name="WILLOW 4K" tvg-logo="" group-title="SPORTS",WILLOW 4K
+https://airtel.rkdyiptv.workers.dev/live/2027.m3u8
+#EXTINF:-1 tvg-id="I722.100316.schedulesdirect.org" tvg-name="WILLOW 2 4K" tvg-logo="" group-title="SPORTS",WILLOW 2 4K
+https://airtel.rkdyiptv.workers.dev/live/2025.m3u8
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 ENGLISH 4K" tvg-logo="" group-title="SPORTS",STAR SPORTS 1 ENGLISH 4K
+https://airtel.rkdyiptv.workers.dev/live/290.m3u8
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI 4K" tvg-logo="" group-title="SPORTS",STAR SPORTS 1 HINDI 4K
+https://airtel.rkdyiptv.workers.dev/live/1965.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 4K" tvg-logo="" group-title="SPORTS",STAR SPORTS 2 4K
+https://airtel.rkdyiptv.workers.dev/live/1446.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 4K" tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 1 4K
+https://airtel.rkdyiptv.workers.dev/live/1444.m3u8
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 2 4K
+https://airtel.rkdyiptv.workers.dev/live/1448.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="A SPORTS 4K" tvg-logo="" group-title="SPORTS",A SPORTS 4K
+https://airtel.rkdyiptv.workers.dev/live/2428.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 4K" tvg-logo="" group-title="SPORTS",SONY TEN 1 4K
+https://airtel.rkdyiptv.workers.dev/live/294.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 4K" tvg-logo="" group-title="SPORTS",SONY TEN 2 4K
+https://airtel.rkdyiptv.workers.dev/live/297.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 4K" tvg-logo="" group-title="SPORTS",SONY TEN 3 4K
+https://airtel.rkdyiptv.workers.dev/live/298.m3u8
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 4K" tvg-logo="" group-title="SPORTS",SONY TEN 5 4K
+https://airtel.rkdyiptv.workers.dev/live/299.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS HD" tvg-logo="" group-title="SPORTS",DD SPORTS HD
+https://airtel.rkdyiptv.workers.dev/live/2604.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GEO SUPER" tvg-logo="" group-title="SPORTS",GEO SUPER
+https://airtel.rkdyiptv.workers.dev/live/302.m3u8
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS" tvg-logo="" group-title="SPORTS",PTV SPORTS
+https://airtel.rkdyiptv.workers.dev/live/303.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS 4K*" tvg-logo="" group-title="SPORTS",TEN SPORTS 4K*
+https://airtel.rkdyiptv.workers.dev/live/304.m3u8
+
 
