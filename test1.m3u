@@ -67,14 +67,6 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mp
 #EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="starsports1hindi.in" tvg-name="STAR SPORTS 1 4K HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12065.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 4K HINDI
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/73377.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 01" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59459.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 01
@@ -257,6 +249,7 @@ https://airtel.rkdyiptv.workers.dev/live/302.m3u8
 https://airtel.rkdyiptv.workers.dev/live/303.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS 4K*" tvg-logo="" group-title="SPORTS",TEN SPORTS 4K*
 https://airtel.rkdyiptv.workers.dev/live/304.m3u8
+
 
 
 
