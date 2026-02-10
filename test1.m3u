@@ -69,26 +69,6 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 
 
 
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 01" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59459.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 01
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/71253.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 02" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59456.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 02
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/71241.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 03" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59457.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 03
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75923.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 04" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59460.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 04
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75915.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 05" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60830.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 05
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75881.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 06" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60831.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 06
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/61050.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 07" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60832.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 07
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75899.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 08" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60833.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 08
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75930.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 09" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60829.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 09
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75903.m3u8
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CRICKET EVENTS 10" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59458.jpg" group-title="SPORTS - CRICKET ",CRICKET EVENTS 10
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75914.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/68537.png" group-title="SPORTS - CRICKET ",T20 WORLD CUP FOR VISUALLY IMPAIRED
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68191.m3u8
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2873.jpg" group-title="SPORTS - CRICKET ",SKY SPORTS 4K
@@ -249,6 +229,7 @@ https://airtel.rkdyiptv.workers.dev/live/302.m3u8
 https://airtel.rkdyiptv.workers.dev/live/303.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS 4K*" tvg-logo="" group-title="SPORTS",TEN SPORTS 4K*
 https://airtel.rkdyiptv.workers.dev/live/304.m3u8
+
 
 
 
