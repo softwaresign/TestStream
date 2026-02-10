@@ -69,8 +69,10 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 
 
 
-#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/68537.png" group-title="SPORTS - CRICKET ",T20 WORLD CUP FOR VISUALLY IMPAIRED
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1753202207980_l_high.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 TELUGU
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68191.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 2 TELUGU
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68192.m3u8
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2873.jpg" group-title="SPORTS - CRICKET ",SKY SPORTS 4K
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/76000.m3u8
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K UK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8810.jpg" group-title="SPORTS - CRICKET ",SKY SPORTS CRICKET 4K UK
@@ -229,6 +231,7 @@ https://airtel.rkdyiptv.workers.dev/live/302.m3u8
 https://airtel.rkdyiptv.workers.dev/live/303.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS 4K*" tvg-logo="" group-title="SPORTS",TEN SPORTS 4K*
 https://airtel.rkdyiptv.workers.dev/live/304.m3u8
+
 
 
 
