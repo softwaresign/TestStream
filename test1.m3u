@@ -60,6 +60,14 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mp
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd
+
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" ,Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports1_Telugu_HD_BTS/output/index.mpd
+
 #EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg" ,Star Sports 2 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
@@ -67,12 +75,11 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mp
 #EXTHTTP:{"cookie":"__hdnea__=st=1770665642~exp=1770752042~acl=/*~hmac=edb896e3eb4a96792c5fdf9f154c46561244132f0a46cb27e0e2b0f16c888c38"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
 
-
-
 #EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="" group-title="SPORTS - CRICKET ",SSPORTS 1 TELUGU
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68191.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-name="T20 WORLD CUP FOR VISUALLY IMPAIRED" tvg-logo="" group-title="SPORTS - CRICKET ",SSPORTS 2 TELUGU
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/68192.m3u8
+
 
 
 
