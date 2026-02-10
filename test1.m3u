@@ -84,8 +84,7 @@ https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12154.m3u8
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12155.m3u8
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12070.jpg" group-title="SPORTS - CRICKET ",STAR SPORTS 1 TAMIL HD
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/12156.m3u8
-#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="WILLOW SPORTS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12077.png" group-title="SPORTS - CRICKET ",WILLOW SPORTS 4K
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75932.m3u8
+
 #EXTINF:-1 tvg-id="willowcricket.us" tvg-name="WILLOW CRICKET USA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12085.png" group-title="SPORTS - CRICKET ",WILLOW CRICKET USA HD
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75946.m3u8
 #EXTINF:-1 tvg-id="willowxtra.us" tvg-name="WILLOW EXTRA USA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12086.png" group-title="SPORTS - CRICKET ",WILLOW EXTRA USA HD
@@ -224,6 +223,7 @@ https://airtel.rkdyiptv.workers.dev/live/302.m3u8
 https://airtel.rkdyiptv.workers.dev/live/303.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="TEN SPORTS 4K*" tvg-logo="" group-title="SPORTS",TEN SPORTS 4K*
 https://airtel.rkdyiptv.workers.dev/live/304.m3u8
+
 
 
 
