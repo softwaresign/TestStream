@@ -14,3 +14,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
 
+#EXTINF:-1 tvg-id="1113" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
+#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd
+
+
+#EXTINF:-1 tvg-id="1803" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89887cc3539757c4802bb3f4b1bed42f:9d02cba14dd041059c40bf3070d7f32e
+#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd
+
