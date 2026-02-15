@@ -81,3 +81,19 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 #KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
 https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
+
+#EXTINF:-1 tvg-logo=" ", Disney Junior
+http://103.182.170.32:8888/play/a03q
+
+#EXTINF:-1 tvg-logo=" ", Discovery Kids
+http://103.182.170.32:8888/play/a02o
+
+#EXTINF:-1 tvg-logo=" ", Disnney Channel
+http://103.182.170.32:8888/play/a04g
+
+#EXTINF:-1 tvg-logo=" ", Cartoon Network
+http://103.182.170.32:8888/play/a04o
+
+#EXTINF:-1 tvg-logo=" ", Pogo
+http://103.182.170.32:8888/play/a02p
+
