@@ -1,34 +1,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="Wow Kids" tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png" group-title="Kids", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CN HD+ Telugu" tvg-logo="https://i.ibb.co/fYn36K8q/1000148107.png" group-title="Kids",CN HD+ Telugu
-https://servertvhub.site/jio/app/ts_live_1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CN Telugu" tvg-logo="https://i.ibb.co/fGXKHpvz/1000148119.png" group-title="Kids",CN Telugu
-https://servertvhub.site/jio/app/ts_live_166.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nick Telugu" tvg-logo="https://i.ibb.co/MkcMWmnB/1000148400.png" group-title="Kids",Nick Telugu
-https://servertvhub.site/jio/app/ts_live_543.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/gMT4GwSf/1000148402.png" group-title="Kids",Nick Jr
-https://servertvhub.site/jio/app/ts_live_544.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kushi Tv" tvg-logo="https://i.ibb.co/cSKvMhzb/1000148411.png" group-title="Kids",Kushi Tv
-https://servertvhub.site/jio/app/ts_live_558.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sonic Telugu" tvg-logo="https://i.ibb.co/DD2fP1FF/1000148417.png" group-title="Kids",Sonic Telugu
-https://servertvhub.site/jio/app/ts_live_1242.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pogo Telugu" tvg-logo="https://i.ibb.co/4n56LwrX/1000148486.png" group-title="Kids",Pogo Telugu
-https://servertvhub.site/jio/app/ts_live_1883.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JWc7tpML/ZEE-CINEMA.png" group-title="Indian", ZEE CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7tHzFbth/ZEE-CINEMA-HD.png" group-title="Indian",ZEE CINEMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,12 +22,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC HD
 #https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="10591" tvg-chno="042" tvg-name="9xm" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="Hindi Music", 9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
@@ -65,11 +39,10 @@ http://203.18.159.115/POGO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%201%20HD1744991778.png" group-title="Sports",STAR SPORTS 1 FHD
 http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%202%20HD1744991842.png" group-title="Sports",STAR SPORTS 2 FHD
 http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%2031745039893.png" group-title="Sports",STAR SPORTS 3 FHD
 http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
+
 
