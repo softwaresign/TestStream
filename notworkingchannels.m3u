@@ -9,3 +9,17 @@ https://m3u.8088y.fun/jtvp/Star_Sports_1_Telugu_HD.mpd?tk=testing
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=Exoplayer
 https://m3u.8088y.fun/jtvp/Star_Sports_1_Telugu.mpd?tk=testing
+
+#EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 2 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXTVLCOPT:http-user-agent=Exoplayer
+https://m3u.8088y.fun/jtvp/Star_Sports_2_Telugu_HD.mpd?tk=testing
+
+#EXTINF:-1 tvg-id="1651" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 2 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
+#EXTVLCOPT:http-user-agent=Exoplayer
+https://m3u.8088y.fun/jtvp/Star_Sports_2_Telugu.mpd?tk=testing
+
+
