@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png", Star Sports 1 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=198
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=197
+
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi HD
 http://116.90.120.151:8000/play/a0je/index.m3u8
 
