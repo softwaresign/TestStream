@@ -63,3 +63,31 @@ https://satoshi-cors.herokuapp.com/http://103.158.133.62:8080/a-sports/tracks-v1
 https://bongoflixbd.top/toffee/euro_sports_hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBJSjXTc/download.png" group-title="Sports",Solhsports
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Hindi Movies",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM TV
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="Doordarshan",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-id="WION.in" group-title="News",WION (Adaptive) (1080p)
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
+https://bd.drmlive.net/toffee/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
+https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
+
+
+
+
