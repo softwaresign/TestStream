@@ -4,58 +4,15 @@ https://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1 ,  Gyandarshan
 https://cdn-6.pishow.tv/live/14/master.m3u8
 
-#EXTINF:-1 ,  Zee Telugu HD
-http://87.255.35.150:18222/
-#EXTINF:-1 ,  Zee Cinemalu HD
-http://87.255.35.150:18578/
-
-#EXTINF:-1 ,  Zee Telugu
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetelugu
-
 #EXTINF:-1 ,  Zee One English
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 ,  Star Maa HD
-http://87.255.35.150:18846/
-#EXTINF:-1 ,  Star Maa Movies
-http://87.255.35.150:18817/
-#EXTINF:-1 ,  Star Maa Music
-http://87.255.35.150:18816/
-#EXTINF:-1 ,  Star Maa Gold
-http://87.255.35.150:18815/
-#EXTINF:-1 ,  Gemini HD
-http://87.255.35.150:18856/
 #EXTINF:-1 ,  Gemini
 https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
-#EXTINF:-1 ,  Gemini Movies HD
-http://87.255.35.150:18814/
-#EXTINF:-1 ,  Gemini Music HD
-http://87.255.35.150:18857/
-#EXTINF:-1 ,  Gemini Comedy
-http://87.255.35.150:18858/
-#EXTINF:-1 ,  Gemini Life
-http://87.255.35.150:18457/
 #EXTINF:-1 ,  Raj Musix Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 ,  DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 
-
-#EXTINF:-1 ,  Star Sports 1 Telugu HD
-http://87.255.35.150:18881/
-#EXTINF:-1 ,  Star Sports 2 HD
-http://87.255.35.150:18828/
-#EXTINF:-1 ,  Star Sports 3
-http://87.255.35.150:18804/
-#EXTINF:-1 ,  Star Sports 1 Tamil HD
-http://87.255.35.150:18844/
-#EXTINF:-1 ,  Sony Sports Ten 1
-http://87.255.35.150:18926/
-#EXTINF:-1 ,  Sony Sports Ten 2
-http://87.255.35.150:18927/
-#EXTINF:-1 ,  Sony Sports Ten 3
-http://87.255.35.150:18848/
 #EXTINF:-1 ,  Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 ,  DD Sports
@@ -76,9 +33,6 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTINF:-1 ,  HMTV
 https://cdn-1.pishow.tv/live/280/master.m3u8
 
-#EXTINF:-1 ,  Hungama
-http://87.255.35.150:18811/
-
 #EXTINF:-1 ,  &flix
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 ,  B4U Movies India
@@ -97,10 +51,6 @@ https://cdn-6.pishow.tv/live/16/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 ,  Hi Dost!
 https://cdn-1.pishow.tv/live/224/master.m3u8
-#EXTINF:-1 ,  MNX
-http://87.255.35.150:18936/
-#EXTINF:-1 ,  Movies Now
-http://87.255.35.150:18935/
 #EXTINF:-1 ,  Munsif TV India
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
 #EXTINF:-1 ,  Music India
@@ -109,27 +59,10 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://network10.livebox.co.in/network10hls/live.m3u8
 #EXTINF:-1 ,  India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 ,  Sony Max 2
-http://87.255.35.150:18841/
-#EXTINF:-1 ,  Sony Pix
-http://87.255.35.150:18495/
-#EXTINF:-1 ,  Star Gold Select HD
-http://87.255.35.150:18429/
-#EXTINF:-1 ,  StarMov Select HD
-http://87.255.35.150:18548/
 #EXTINF:-1 ,  Tehzeeb TV
 https://cdn-4.pishow.tv/live/239/master.m3u8
 #EXTINF:-1 ,  Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 ,  Zee Action
-http://87.255.35.150:18507/
-#EXTINF:-1 ,  Zee Bollywood
-http://87.255.35.150:18861/
-#EXTINF:-1 ,  Star Movies HD
-http://87.255.35.150:18301/
-
-
-
 #EXTINF:-1 ,Pogo Telugu
 http://103.180.212.191:3500/live/1883.m3u8
 #EXTINF:-1 ,Animal Planet HD Telugu
