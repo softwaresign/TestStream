@@ -6,8 +6,7 @@ https://cdn-6.pishow.tv/live/14/master.m3u8
 
 #EXTINF:-1 ,  Zee One English
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 ,  Gemini
-https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
+
 #EXTINF:-1 ,  Raj Musix Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 ,  DD Saptagiri
@@ -33,16 +32,6 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTINF:-1 ,  HMTV
 https://cdn-1.pishow.tv/live/280/master.m3u8
 
-#EXTINF:-1 ,  &flix
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
-#EXTINF:-1 ,  B4U Movies India
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 ,  B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 ,  B4U Bhojpuri
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 ,  B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 ,  Comedy Tadka
 https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
 #EXTINF:-1 ,  DD Kashir
@@ -51,8 +40,7 @@ https://cdn-6.pishow.tv/live/16/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 ,  Hi Dost!
 https://cdn-1.pishow.tv/live/224/master.m3u8
-#EXTINF:-1 ,  Munsif TV India
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
+
 #EXTINF:-1 ,  Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 ,  Network 10 News
@@ -98,46 +86,8 @@ http://103.180.212.191:3500/live/576.m3u8
 
 #EXTINF:-1 ,Star Sports 1 Telugu
 http://103.180.212.191:3500/live/2851.m3u8
-#EXTINF:-1 ,Star Sports 2 Telugu
-http://103.180.212.191:3500/live/2852.m3u8
-#EXTINF:-1 ,Star Sports 3 Telugu
-http://103.180.212.191:3500/live/2853.m3u8
 #EXTINF:-1 ,Star Sports 4 Telugu
 http://103.180.212.191:3500/live/2854.m3u8
-#EXTINF:-1 ,Star Sports 5 Telugu
-http://103.180.212.191:3500/live/2855.m3u8
-#EXTINF:-1 ,Star Sports 6 Telugu
-http://103.180.212.191:3500/live/2856.m3u8
-#EXTINF:-1 ,Star Sports 7 Telugu
-http://103.180.212.191:3500/live/2857.m3u8
-#EXTINF:-1 ,Star Sports 8 Telugu
-http://103.180.212.191:3500/live/2858.m3u8
-#EXTINF:-1 ,Star Sports 9 Telugu
-http://103.180.212.191:3500/live/2859.m3u8
-#EXTINF:-1 ,Star Sports 10 Telugu
-http://103.180.212.191:3500/live/2860.m3u8
-
-#EXTINF:-1 ,SSports 1 Telugu
-http://103.180.212.191:3500/live/2841.m3u8
-#EXTINF:-1 ,SSports 2 Telugu
-http://103.180.212.191:3500/live/2842.m3u8
-#EXTINF:-1 ,SSports 3 Telugu
-http://103.180.212.191:3500/live/2843.m3u8
-#EXTINF:-1 ,SSports 4 Telugu
-http://103.180.212.191:3500/live/2844.m3u8
-#EXTINF:-1 ,SSports 5 Telugu
-http://103.180.212.191:3500/live/2845.m3u8
-#EXTINF:-1 ,SSports 6 Telugu
-http://103.180.212.191:3500/live/2846.m3u8
-#EXTINF:-1 ,SSports 7 Telugu
-http://103.180.212.191:3500/live/2847.m3u8
-#EXTINF:-1 ,SSports 8 Telugu
-http://103.180.212.191:3500/live/2848.m3u8
-#EXTINF:-1 ,SSports 9 Telugu
-http://103.180.212.191:3500/live/2849.m3u8
-#EXTINF:-1 ,SSports 10 Telugu
-http://103.180.212.191:3500/live/2850.m3u8
-
 
 #EXTINF:-1 ,Discovery HD Telugu
 http://103.180.212.191:3500/live/3446.m3u8
@@ -171,9 +121,6 @@ http://103.180.212.191:3500/live/684.m3u8
 #EXTINF:-1 ,Gemini Comedy
 http://103.180.212.191:3500/live/729.m3u8
 
-#EXTINF:-1 ,Zee Cafe HD
-http://202.70.146.135:8000/play/a04n/index.m3u8
-
 #EXTINF:-1 ,Discovery Science English
 http://103.180.212.191:3500/live/568.m3u8
 
@@ -181,77 +128,24 @@ http://103.180.212.191:3500/live/568.m3u8
 http://103.180.212.191:3500/live/3435.m3u8
 #EXTINF:-1 ,Cartoon Network HD English
 http://103.180.212.191:3500/live/1079.m3u8
-
 #EXTINF:-1 ,CVR English
 http://103.180.212.191:3500/live/787.m3u8
-
 #EXTINF:-1 ,Discovery English
 http://103.180.212.191:3500/live/242.m3u8
-
-
-
-#EXTINF:-1 ,tv1
-http://103.180.212.191:3500/live/885.m3u8
-#EXTINF:-1 ,tv2
-http://103.180.212.191:3500/live/886.m3u8
-#EXTINF:-1 ,tv3
-http://103.180.212.191:3500/live/887.m3u8
-#EXTINF:-1 ,tv4
-http://103.180.212.191:3500/live/888.m3u8
-#EXTINF:-1 ,tv5
+#EXTINF:-1 ,Jio Sports HD
 http://103.180.212.191:3500/live/889.m3u8
-#EXTINF:-1 ,tv6
-http://103.180.212.191:3500/live/890.m3u8
-#EXTINF:-1 ,tv7
+#EXTINF:-1 ,Star Sports 4 HD
 http://103.180.212.191:3500/live/891.m3u8
-#EXTINF:-1 ,tv8
+#EXTINF:-1 ,Star Sports 4 HD
 http://103.180.212.191:3500/live/892.m3u8
-#EXTINF:-1 ,tv9
-http://103.180.212.191:3500/live/893.m3u8
-#EXTINF:-1 ,tv10
-http://103.180.212.191:3500/live/894.m3u8
-#EXTINF:-1 ,tv11
-http://103.180.212.191:3500/live/895.m3u8
-#EXTINF:-1 ,tv12
-http://103.180.212.191:3500/live/896.m3u8
-#EXTINF:-1 ,tv13
+#EXTINF:-1 ,Gemini HD
 http://103.180.212.191:3500/live/897.m3u8
-#EXTINF:-1 ,tv14
+#EXTINF:-1 ,Gemini Music HD
 http://103.180.212.191:3500/live/898.m3u8
-#EXTINF:-1 ,tv15
+#EXTINF:-1 ,Gemini Mobvies HD
 http://103.180.212.191:3500/live/899.m3u8
-#EXTINF:-1 ,tv16
-http://103.180.212.191:3500/live/900.m3u8
-#EXTINF:-1 ,tv17
-http://103.180.212.191:3500/live/901.m3u8
-#EXTINF:-1 ,tv18
-http://103.180.212.191:3500/live/902.m3u8
-#EXTINF:-1 ,tv19
-http://103.180.212.191:3500/live/903.m3u8
-#EXTINF:-1 ,tv20
-http://103.180.212.191:3500/live/904.m3u8
-#EXTINF:-1 ,tv21
-http://103.180.212.191:3500/live/905.m3u8
-#EXTINF:-1 ,tv22
-http://103.180.212.191:3500/live/906.m3u8
-#EXTINF:-1 ,tv23
-http://103.180.212.191:3500/live/907.m3u8
-#EXTINF:-1 ,tv24
-http://103.180.212.191:3500/live/908.m3u8
-#EXTINF:-1 ,tv25
-http://103.180.212.191:3500/live/909.m3u8
-#EXTINF:-1 ,tv26
-http://103.180.212.191:3500/live/910.m3u8
-#EXTINF:-1 ,tv27
-http://103.180.212.191:3500/live/911.m3u8
-#EXTINF:-1 ,tv28
-http://103.180.212.191:3500/live/912.m3u8
-#EXTINF:-1 ,tv29
-http://103.180.212.191:3500/live/913.m3u8
-#EXTINF:-1 ,tv30
-http://103.180.212.191:3500/live/914.m3u8
-#EXTINF:-1 ,tv31
-http://103.180.212.191:3500/live/915.m3u8
-#EXTINF:-1 ,tv32
-http://103.180.212.191:3500/live/916.m3u8
+
+
+
+
 
