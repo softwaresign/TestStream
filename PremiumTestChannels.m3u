@@ -16,33 +16,22 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM3
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC HD
-#https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
-#https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC1
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC2
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC3
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10591" tvg-chno="042" tvg-name="9xm" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="Hindi Music", 9XM
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp", 9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1280px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids",NICK JR
-http://203.18.159.115/NICKJR/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1280px-Nick_Jr._logo_2023_%28outline%29.svg.png", NICK JR
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/8/89/POGO-logo.png/revision/latest?cb=20230407015035" group-title="Kids",POGO
-http://203.18.159.115/POGO/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%201%20HD1744991778.png" group-title="Sports",STAR SPORTS 1 FHD
-http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%202%20HD1744991842.png" group-title="Sports",STAR SPORTS 2 FHD
-http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%2031745039893.png" group-title="Sports",STAR SPORTS 3 FHD
-http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
 
 
