@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ETVAbhiruchi.in@SD" tvg-logo="https://i.imgur.com/3D5SN3E.png" group-title="Cooking",ETV Abhiruchi SD
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh SD
+#EXTINF:-1 tvg-id="ETVCinema.in@HD" tvg-logo="https://i.imgur.com/iMxePjI.png" group-title="Movies",ETV Cinema HD
+#EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-logo="https://i.imgur.com/GYGOWI2.png" group-title="Entertainment",ETV Plus HD
+#EXTINF:-1 tvg-id="ETVTelangana.in@SD" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="News",ETV Telangana SD
+#EXTINF:-1 tvg-id="ETVTelugu.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/ETV_old_logo.png" group-title="Entertainment",ETV Telugu HD
+#EXTINF:-1 tvg-id="GeminiTV.in@SD" tvg-logo="https://i.imgur.com/yWaacuI.png" group-title="General",Gemini TV SD
+#EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare SD
+#EXTINF:-1 tvg-id="1097" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
+#EXTINF:-1 tvg-id="1097" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy 2
+#EXTINF:-1 tvg-id="1113" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV
+#EXTINF:-1 tvg-id="1803" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life 1
+#EXTINF:-1 tvg-id="1803" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini L2
+#EXTINF:-1 tvg-id="1807" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD
+#EXTINF:-1 tvg-id="1868" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini Music HD
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="World Sports",TNT Sports 1
 #EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="World Sports",TNT Sports 2
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQCG9.png" group-title="World Sports",TNT Sports 3
