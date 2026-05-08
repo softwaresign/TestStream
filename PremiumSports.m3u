@@ -1,108 +1,25 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png", Star Sports 1 HD
-https://2025.telegram-akshaybk29.workers.dev/channel?id=198
-
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
-https://2025.telegram-akshaybk29.workers.dev/channel?id=197
-
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi HD
-http://116.90.120.151:8000/play/a0je/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://i.imgur.com/kHerF19.png",Star Sports 2 Hindi (576p)
-http://116.90.120.151:8000/play/a0jc/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg", Willow Cricbuzz
-http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
-
-#EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Willow Cricket
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
-
 #EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://i.imgur.com/kHerF19.png", Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
-
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title=" " , Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="1108" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
 #EXTINF:-1 tvg-id="1106" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",Star Sports HD1
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
 #EXTINF:-1 tvg-id="1109" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",Star Sports HD2
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
 #EXTINF:-1 tvg-id="1141" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282487~exp=1775304087~acl=/*~hmac=f462afd671cf473af27811d5bd1007ccacd86ddf18c9b01487f6c17c7a70b31f"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
-
 #EXTINF:-1 tvg-id="1142" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports1
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
-
 #EXTINF:-1 tvg-id="1651" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
-
 #EXTINF:-1 tvg-id="2852" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
 #EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
 #EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
 #EXTINF:-1 tvg-id="362" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",Star Sports Hindi 1
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
-#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
-
