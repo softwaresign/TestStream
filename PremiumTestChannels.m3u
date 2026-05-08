@@ -11,24 +11,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 *https://padmaonline.duckdns.org:8088/ZeeCinemaHD/index.m3u8
-
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Indian", ZEE TELUGU HD
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", ZEE TELUGU HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM1
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM2
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" group-title="Hindi Music",ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC1
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC2
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112" group-title="Hindi Music",B4U MUSIC3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112",B4U MUSIC
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp", 9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1280px-Nick_Jr._logo_2023_%28outline%29.svg.png", NICK JR
