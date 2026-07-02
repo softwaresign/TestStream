@@ -1,25 +1,18 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
-#EXTINF:-1 tvg-logo=" ", FanCode Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
-https://2025.telegram-akshaybk29.workers.dev/channel?id=195
+#https://2025.telegram-akshaybk29.workers.dev/channel?id=195
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Star Sports 1 HD
-https://2025.telegram-akshaybk29.workers.dev/channel?id=196
+#https://2025.telegram-akshaybk29.workers.dev/channel?id=196
 
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title=" " , Willow Cricbuzz
-http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
+#http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
-#EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title=" " , Willow Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg", Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1 T
-http://stvlive.net:8080/starsports1telugu/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2 T
-http://stvlive.net:8080/starsports2telugu/index.m3u8
+
